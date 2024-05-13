@@ -36,7 +36,7 @@ Si su README es extenso, agregue un índice para facilitar que los usuarios encu
 1. Install docker docker-compose 
 2. Clone reposiory 
 
-```git clone```
+```git clone
 
 3. Run docker
 
