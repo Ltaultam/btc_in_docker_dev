@@ -36,18 +36,18 @@ Si su README es extenso, agregue un índice para facilitar que los usuarios encu
 1. Install docker docker-compose 
 2. Clone reposiory 
 
-```git clone
-```
+```git clone```
+
 3. Run docker
 
 ```docker-compose up -d
-```
+
 4. Inside to container 
+
 ```docker exec -it id_container bash
-```
+
 5. Run bitcoind
-```bitcoind 
-```
+```bitcoind
 
 ## Use
 
